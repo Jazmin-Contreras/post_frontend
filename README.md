@@ -18,5 +18,6 @@
 - **React**
 - **Redux**
 - **Axios**
+- **Tailwind CSS**
 
    
